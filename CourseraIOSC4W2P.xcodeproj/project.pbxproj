@@ -1,0 +1,349 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F4EECB71DE3D7BF0098627A /* 01. Marche pour la cérémonie des Turcs.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECB61DE3D7BF0098627A /* 01. Marche pour la cérémonie des Turcs.m4a */; };
+		3F4EECC11DE3D9170098627A /* Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECB81DE3D9170098627A /* Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a */; };
+		3F4EECC21DE3D9170098627A /* Carla Morrison - Eres Tú (letra).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECB91DE3D9170098627A /* Carla Morrison - Eres Tú (letra).m4a */; };
+		3F4EECC31DE3D9170098627A /* CARLOS Y JOSE....... FLOR DE CAPOMO.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBA1DE3D9170098627A /* CARLOS Y JOSE....... FLOR DE CAPOMO.m4a */; };
+		3F4EECC41DE3D9170098627A /* El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBB1DE3D9170098627A /* El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a */; };
+		3F4EECC51DE3D9170098627A /* Is This Love - Bob Marley . Sub al español.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBC1DE3D9170098627A /* Is This Love - Bob Marley . Sub al español.m4a */; };
+		3F4EECC61DE3D9170098627A /* Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBD1DE3D9170098627A /* Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a */; };
+		3F4EECC71DE3D9170098627A /* Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBE1DE3D9170098627A /* Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a */; };
+		3F4EECC81DE3D9170098627A /* Soda Stereo - Un misil en mi placard.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECBF1DE3D9170098627A /* Soda Stereo - Un misil en mi placard.m4a */; };
+		3F4EECC91DE3D9170098627A /* Wax Tailor - Que Sera (HQ).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3F4EECC01DE3D9170098627A /* Wax Tailor - Que Sera (HQ).m4a */; };
+		3F5107881DE0B496000385A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5107871DE0B496000385A1 /* AppDelegate.swift */; };
+		3F51078A1DE0B496000385A1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5107891DE0B496000385A1 /* ViewController.swift */; };
+		3F51078D1DE0B496000385A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F51078B1DE0B496000385A1 /* Main.storyboard */; };
+		3F51078F1DE0B496000385A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F51078E1DE0B496000385A1 /* Assets.xcassets */; };
+		3F5107921DE0B496000385A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5107901DE0B496000385A1 /* LaunchScreen.storyboard */; };
+		3F51079A1DE0DB3F000385A1 /* cancion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5107991DE0DB3F000385A1 /* cancion.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3F4EECB61DE3D7BF0098627A /* 01. Marche pour la cérémonie des Turcs.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "01. Marche pour la cérémonie des Turcs.m4a"; path = "../../../../VM/audioFiles/01. Marche pour la cérémonie des Turcs.m4a"; sourceTree = "<group>"; };
+		3F4EECB81DE3D9170098627A /* Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a"; sourceTree = "<group>"; };
+		3F4EECB91DE3D9170098627A /* Carla Morrison - Eres Tú (letra).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Carla Morrison - Eres Tú (letra).m4a"; sourceTree = "<group>"; };
+		3F4EECBA1DE3D9170098627A /* CARLOS Y JOSE....... FLOR DE CAPOMO.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CARLOS Y JOSE....... FLOR DE CAPOMO.m4a"; sourceTree = "<group>"; };
+		3F4EECBB1DE3D9170098627A /* El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a"; sourceTree = "<group>"; };
+		3F4EECBC1DE3D9170098627A /* Is This Love - Bob Marley . Sub al español.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Is This Love - Bob Marley . Sub al español.m4a"; sourceTree = "<group>"; };
+		3F4EECBD1DE3D9170098627A /* Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a"; sourceTree = "<group>"; };
+		3F4EECBE1DE3D9170098627A /* Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a"; sourceTree = "<group>"; };
+		3F4EECBF1DE3D9170098627A /* Soda Stereo - Un misil en mi placard.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Soda Stereo - Un misil en mi placard.m4a"; sourceTree = "<group>"; };
+		3F4EECC01DE3D9170098627A /* Wax Tailor - Que Sera (HQ).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Wax Tailor - Que Sera (HQ).m4a"; sourceTree = "<group>"; };
+		3F5107841DE0B496000385A1 /* CourseraIOSC4W2P.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CourseraIOSC4W2P.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F5107871DE0B496000385A1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F5107891DE0B496000385A1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F51078C1DE0B496000385A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F51078E1DE0B496000385A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F5107911DE0B496000385A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3F5107931DE0B496000385A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F5107991DE0DB3F000385A1 /* cancion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cancion.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F5107811DE0B495000385A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F51077B1DE0B495000385A1 = {
+			isa = PBXGroup;
+			children = (
+				3F5107861DE0B496000385A1 /* CourseraIOSC4W2P */,
+				3F5107851DE0B496000385A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F5107851DE0B496000385A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F5107841DE0B496000385A1 /* CourseraIOSC4W2P.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3F5107861DE0B496000385A1 /* CourseraIOSC4W2P */ = {
+			isa = PBXGroup;
+			children = (
+				3F5107871DE0B496000385A1 /* AppDelegate.swift */,
+				3F5107891DE0B496000385A1 /* ViewController.swift */,
+				3F51078B1DE0B496000385A1 /* Main.storyboard */,
+				3F51078E1DE0B496000385A1 /* Assets.xcassets */,
+				3F5107901DE0B496000385A1 /* LaunchScreen.storyboard */,
+				3F5107931DE0B496000385A1 /* Info.plist */,
+				3F4EECB61DE3D7BF0098627A /* 01. Marche pour la cérémonie des Turcs.m4a */,
+				3F4EECB81DE3D9170098627A /* Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a */,
+				3F4EECB91DE3D9170098627A /* Carla Morrison - Eres Tú (letra).m4a */,
+				3F4EECBA1DE3D9170098627A /* CARLOS Y JOSE....... FLOR DE CAPOMO.m4a */,
+				3F4EECBB1DE3D9170098627A /* El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a */,
+				3F4EECBC1DE3D9170098627A /* Is This Love - Bob Marley . Sub al español.m4a */,
+				3F4EECBD1DE3D9170098627A /* Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a */,
+				3F4EECBE1DE3D9170098627A /* Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a */,
+				3F4EECBF1DE3D9170098627A /* Soda Stereo - Un misil en mi placard.m4a */,
+				3F4EECC01DE3D9170098627A /* Wax Tailor - Que Sera (HQ).m4a */,
+				3F5107991DE0DB3F000385A1 /* cancion.swift */,
+			);
+			path = CourseraIOSC4W2P;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F5107831DE0B495000385A1 /* CourseraIOSC4W2P */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F5107961DE0B496000385A1 /* Build configuration list for PBXNativeTarget "CourseraIOSC4W2P" */;
+			buildPhases = (
+				3F5107801DE0B495000385A1 /* Sources */,
+				3F5107811DE0B495000385A1 /* Frameworks */,
+				3F5107821DE0B495000385A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CourseraIOSC4W2P;
+			productName = CourseraIOSC4W2P;
+			productReference = 3F5107841DE0B496000385A1 /* CourseraIOSC4W2P.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F51077C1DE0B495000385A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Mauricio Jacobo";
+				TargetAttributes = {
+					3F5107831DE0B495000385A1 = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 3F51077F1DE0B495000385A1 /* Build configuration list for PBXProject "CourseraIOSC4W2P" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F51077B1DE0B495000385A1;
+			productRefGroup = 3F5107851DE0B496000385A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F5107831DE0B495000385A1 /* CourseraIOSC4W2P */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F5107821DE0B495000385A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F4EECB71DE3D7BF0098627A /* 01. Marche pour la cérémonie des Turcs.m4a in Resources */,
+				3F4EECC11DE3D9170098627A /* Above & Beyond feat. Gemma Hayes Counting Down The Days (Official Video).m4a in Resources */,
+				3F4EECC91DE3D9170098627A /* Wax Tailor - Que Sera (HQ).m4a in Resources */,
+				3F4EECC31DE3D9170098627A /* CARLOS Y JOSE....... FLOR DE CAPOMO.m4a in Resources */,
+				3F4EECC21DE3D9170098627A /* Carla Morrison - Eres Tú (letra).m4a in Resources */,
+				3F5107921DE0B496000385A1 /* LaunchScreen.storyboard in Resources */,
+				3F51078F1DE0B496000385A1 /* Assets.xcassets in Resources */,
+				3F4EECC41DE3D9170098627A /* El Sirenito - Rigo Tovar y su Conjunto Costa Azul (Remasterizado)..m4a in Resources */,
+				3F4EECC81DE3D9170098627A /* Soda Stereo - Un misil en mi placard.m4a in Resources */,
+				3F4EECC61DE3D9170098627A /* Lykke Li - I Follow Rivers (Director- Tarik Saleh).m4a in Resources */,
+				3F4EECC71DE3D9170098627A /* Oops - Martin Garrix (Unofficial Video Game Inspired Clip).m4a in Resources */,
+				3F4EECC51DE3D9170098627A /* Is This Love - Bob Marley . Sub al español.m4a in Resources */,
+				3F51078D1DE0B496000385A1 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F5107801DE0B495000385A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F51078A1DE0B496000385A1 /* ViewController.swift in Sources */,
+				3F51079A1DE0DB3F000385A1 /* cancion.swift in Sources */,
+				3F5107881DE0B496000385A1 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3F51078B1DE0B496000385A1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F51078C1DE0B496000385A1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3F5107901DE0B496000385A1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F5107911DE0B496000385A1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3F5107941DE0B496000385A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F5107951DE0B496000385A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F5107971DE0B496000385A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CourseraIOSC4W2P/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mauricioJacobo.CourseraIOSC4W2P;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		3F5107981DE0B496000385A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CourseraIOSC4W2P/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mauricioJacobo.CourseraIOSC4W2P;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F51077F1DE0B495000385A1 /* Build configuration list for PBXProject "CourseraIOSC4W2P" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F5107941DE0B496000385A1 /* Debug */,
+				3F5107951DE0B496000385A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F5107961DE0B496000385A1 /* Build configuration list for PBXNativeTarget "CourseraIOSC4W2P" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F5107971DE0B496000385A1 /* Debug */,
+				3F5107981DE0B496000385A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F51077C1DE0B495000385A1 /* Project object */;
+}
